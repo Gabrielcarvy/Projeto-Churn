@@ -1,0 +1,19 @@
+# Datasets
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
